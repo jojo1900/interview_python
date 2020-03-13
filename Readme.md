@@ -126,7 +126,7 @@
 # Python语言特性
 
 ## 1 Python的函数参数传递
- git_test
+
 看两个例子:
 
 ```python
